@@ -15,7 +15,7 @@ Pre - Junior WEB developer, Russia.
 ### Backend.
 
 - [ ] Python/Django
-- [ ] SQL
+- [ ] SQL/PostgreSQL
 
 ### Layout designer.
 
