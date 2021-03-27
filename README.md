@@ -8,9 +8,9 @@ Pre - Junior WEB developer, Russia.
 ### Frontend. 
 
 - [x] Javascript
-- [ ] VueJS.
+- [ ] VueJS
 
-- [ ] Gulp.
+- [ ] Gulp
 
 ### Backend.
 
@@ -20,7 +20,7 @@ Pre - Junior WEB developer, Russia.
 
 ### Layout designer.
 
-- [x] Sass, Scss.
-- [x] HTML, CSS.
+- [x] Sass, Scss
+- [x] HTML, CSS
 
 ##### I may know many different technologies, but I have little experience with them.
