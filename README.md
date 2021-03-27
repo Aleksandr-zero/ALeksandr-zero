@@ -21,8 +21,11 @@ Pre - Junior WEB developer, Russia.
 - [x] Sass, Scss
 - [x] HTML, CSS
 
-### build project.
+### Build project.
 
 - [ ] Gulp
+
+### Version control systems.
+- [x] Git
 
 ##### I may know many different technologies, but I have little experience with them.
