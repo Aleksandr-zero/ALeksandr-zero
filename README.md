@@ -10,8 +10,6 @@ Pre - Junior WEB developer, Russia.
 - [x] Javascript
 - [ ] VueJS
 
-- [ ] Gulp
-
 ### Backend.
 
 - [ ] Python/Django
@@ -22,5 +20,9 @@ Pre - Junior WEB developer, Russia.
 
 - [x] Sass, Scss
 - [x] HTML, CSS
+
+### build project.
+
+- [ ] Gulp
 
 ##### I may know many different technologies, but I have little experience with them.
