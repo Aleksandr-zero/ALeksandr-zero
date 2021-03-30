@@ -1,7 +1,5 @@
 #  Aleksandr Silkin  
-Pre - Junior WEB developer, Russia.
-
-[TOCM]
+Pre - Junior WEB fullsteck developer.
 
 # Hard skills: 
 
