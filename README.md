@@ -21,7 +21,7 @@ Pre - Junior WEB fullsteck developer.
 
 ### Build project.
 
-- [ ] Gulp
+- [x] Gulp
 
 ### Version control systems.
 - [x] Git
