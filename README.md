@@ -5,7 +5,7 @@ Pre - Junior WEB fullsteck developer.
 
 ### Frontend. 
 
-- [x] Javascript
+- [x] JavaScript
 - [ ] VueJS
 
 ### Backend.
@@ -22,8 +22,10 @@ Pre - Junior WEB fullsteck developer.
 ### Build project.
 
 - [x] Gulp
+- [x] Webpack
 
 ### Version control systems.
 - [x] Git
 
-##### I may know many different technologies, but I have little experience with them.
+
+#### This is just the beginning 
